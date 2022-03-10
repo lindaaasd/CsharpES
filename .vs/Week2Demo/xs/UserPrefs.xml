@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{94C5EB6A-C023-4C2F-8EDC-94BA8C342F01}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrgOggetti FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FattorialeES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bollette FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AlbergoES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CopisteriaES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestioneInputOutpot/Program.cs">
+    <Files>
+      <File FileName="GestioneInputOutpot/Program.cs" Line="16" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week2Demo" expanded="True">
+            <Node name="PrgOggetti" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Arrary__ArrayList FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FibonacciES2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DemoAlternative FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GestioneInputOutpot PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

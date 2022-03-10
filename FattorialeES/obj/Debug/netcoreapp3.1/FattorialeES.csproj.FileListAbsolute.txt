@@ -1,0 +1,14 @@
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/bin/Debug/netcoreapp3.1/FattorialeES
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/bin/Debug/netcoreapp3.1/FattorialeES.deps.json
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/bin/Debug/netcoreapp3.1/FattorialeES.runtimeconfig.json
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/bin/Debug/netcoreapp3.1/FattorialeES.runtimeconfig.dev.json
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/bin/Debug/netcoreapp3.1/FattorialeES.dll
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/bin/Debug/netcoreapp3.1/FattorialeES.pdb
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.dll
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.pdb
+/Users/lindaaa/Projects/Week2Demo/FattorialeES/obj/Debug/netcoreapp3.1/FattorialeES.genruntimeconfig.cache

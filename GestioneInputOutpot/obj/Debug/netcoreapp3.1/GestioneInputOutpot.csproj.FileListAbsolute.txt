@@ -1,0 +1,14 @@
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/bin/Debug/netcoreapp3.1/GestioneInputOutpot
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/bin/Debug/netcoreapp3.1/GestioneInputOutpot.deps.json
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/bin/Debug/netcoreapp3.1/GestioneInputOutpot.runtimeconfig.json
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/bin/Debug/netcoreapp3.1/GestioneInputOutpot.runtimeconfig.dev.json
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/bin/Debug/netcoreapp3.1/GestioneInputOutpot.dll
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/bin/Debug/netcoreapp3.1/GestioneInputOutpot.pdb
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.dll
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.pdb
+/Users/lindaaa/Projects/Week2Demo/GestioneInputOutpot/obj/Debug/netcoreapp3.1/GestioneInputOutpot.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/bin/Debug/netcoreapp3.1/VeicoloES
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/bin/Debug/netcoreapp3.1/VeicoloES.deps.json
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/bin/Debug/netcoreapp3.1/VeicoloES.runtimeconfig.json
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/bin/Debug/netcoreapp3.1/VeicoloES.runtimeconfig.dev.json
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/bin/Debug/netcoreapp3.1/VeicoloES.dll
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/bin/Debug/netcoreapp3.1/VeicoloES.pdb
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.dll
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.pdb
+/Users/lindaaa/Projects/Week2Demo/VeicoloES/obj/Debug/netcoreapp3.1/VeicoloES.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UohUGIEN1V7Ozg1s53giPIkLqlpn6xHP+lUtw66mU2vgaQ0OwzdonZLvivq8h/zzFUycEECEBMMLYzND+obFQ==",
+  "success": true,
+  "projectFilePath": "/Users/lindaaa/Projects/Week2Demo/VeicoloES/VeicoloES.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindaaa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5n6sQBXHaQaNeMINn00pxr9x46UN0T+GP60pXPiWirQCcq/1rDs34cGYV4tcN/H6GYLRrR5+eiATcisc0qev6A==",
+  "success": true,
+  "projectFilePath": "/Users/lindaaa/Projects/Week2Demo/FattorialeES/FattorialeES.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindaaa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/lindaaa/Projects/Week2Demo/ArrayES/bin/Debug/netcoreapp3.1/AlbergoES
+/Users/lindaaa/Projects/Week2Demo/ArrayES/bin/Debug/netcoreapp3.1/AlbergoES.deps.json
+/Users/lindaaa/Projects/Week2Demo/ArrayES/bin/Debug/netcoreapp3.1/AlbergoES.runtimeconfig.json
+/Users/lindaaa/Projects/Week2Demo/ArrayES/bin/Debug/netcoreapp3.1/AlbergoES.runtimeconfig.dev.json
+/Users/lindaaa/Projects/Week2Demo/ArrayES/bin/Debug/netcoreapp3.1/AlbergoES.dll
+/Users/lindaaa/Projects/Week2Demo/ArrayES/bin/Debug/netcoreapp3.1/AlbergoES.pdb
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.dll
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.pdb
+/Users/lindaaa/Projects/Week2Demo/ArrayES/obj/Debug/netcoreapp3.1/AlbergoES.genruntimeconfig.cache

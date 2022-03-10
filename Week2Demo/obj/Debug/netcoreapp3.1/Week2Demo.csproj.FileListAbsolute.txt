@@ -1,0 +1,14 @@
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.deps.json
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.runtimeconfig.json
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.runtimeconfig.dev.json
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.dll
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.pdb
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.dll
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.pdb
+/Users/lindaaa/Projects/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.genruntimeconfig.cache

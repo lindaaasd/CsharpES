@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+CUL4rcLR3h6QZL0n5x/mv9fqIkMJ0cMIsttXDSPl4BsLb0cvr7YTU79x7Nz6AJlU0lrKZH2hqEGg9SxKtFag==",
+  "success": true,
+  "projectFilePath": "/Users/lindaaa/Projects/Week2Demo/Bollette/Bollette.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindaaa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

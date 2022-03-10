@@ -1,0 +1,14 @@
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\bin\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.exe
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\bin\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\bin\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\bin\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\bin\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\bin\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.EsercizioAutomobili\obj\Debug\netcoreapp3.1\Week2.EsercizioAutomobili.genruntimeconfig.cache
